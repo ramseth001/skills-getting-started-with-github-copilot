@@ -1,5 +1,16 @@
 # Getting Started with GitHub Copilot
 
+## Running the backend tests
+
+After installing dependencies (e.g. `pip install -r requirements.txt`), you can run the FastAPI unit tests with:
+
+```bash
+pytest
+```
+
+The suite lives under the top-level `tests/` directory and uses `TestClient`.
+
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey ramseth001!
